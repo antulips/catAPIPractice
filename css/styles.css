@@ -16,9 +16,12 @@
 body{
 background: linear-gradient(110deg, var(--primary), var(--secondary));
 }
+
 h1{
+  text-align: center;
   padding: 15px;
 }
+
 main{
   background-color: white;
   text-align: center;
